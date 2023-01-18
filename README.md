@@ -13,5 +13,5 @@ I consider the phase shift and/or signal similarity between two signals as the a
 ![Picture2](https://user-images.githubusercontent.com/44122487/213178967-37a32288-32a0-4189-8365-be2a817921d3.png)
 
 
-I think it is so wise to extract features somehow they are separated maximally. As you can see in this project, with maximal separated features there is no need for training a classifier, or maybe a deep neural network.
+I think it is so wise to extract features somehow they are separated maximally. As you can see in this project, with maximal separated features there is no need for training a classifier, or maybe a deep neural network. 
 
